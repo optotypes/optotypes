@@ -1,4 +1,7 @@
-### Hi there 👋
+### optotypes
+
+optotypes is open-source software that calculates and displays optotypes.  
+
 
 <!--
 **optotypes/optotypes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

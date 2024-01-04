@@ -3,6 +3,7 @@
  - optotypes is open-source software that calculates and displays optotypes.
  - optotypes is a single HTML file so quite portable, use anywhere that has a browser.
  - use your numeric keypad for controls
+ - [Register interest](https://docs.google.com/forms/d/e/1FAIpQLScmrmn-a8OmCnlBG9UyF5F8ogdeaM5JrMVTKLImH-YZJiXrsg/viewform?usp=pp_url)
  - main software coming soon
 
 

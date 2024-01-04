@@ -1,6 +1,11 @@
 ### optotypes
 
-optotypes is open-source software that calculates and displays optotypes.  
+optotypes is open-source software that calculates and displays optotypes. 
+optotypes is a single HTML file so quite portable. 
+
+
+
+please report any issues with use so that improvements can be made.   
 
 
 <!--
